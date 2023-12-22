@@ -22,7 +22,7 @@
 </div>
 
 <div id="icons"  style="border-bottom: 2px solid #444141; padding-bottom: 20px;">
-<h3> 🛠️ Languages and Tools : </h3>
+<h3> 🛠️ Languages, Tools and IDE: </h3>
 <div align="center">
 
 ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
