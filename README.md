@@ -1,21 +1,33 @@
 <h2 align="center">Hi there, I'm Andrey 👋</h2>
 
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="140"/>
+<img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="140"/>
 </div>
 
-<div id="icons" align="center"> 
+<div style="border-bottom: 2px solid #444141; padding-bottom: 20px;">
+<h3>👨🏼‍💻 About Me:</h3>
+<ul>
+<li>🌱  I’m currently learning JS, Python </li>
+<li>🌍 I speak: Russian, Ukrainian, Spanish, English, German </li>
+<li>🎓 Master in Economics and Business Planning</li>
+</ul>
+</div>
 
-<div> 
+
+<div id="badges" style="border-bottom: 2px solid #444141; padding-bottom: 20px; display: flex; flex-direction: column">
+<h3>📫 How to reach me:</h3> 
+<a href="">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+
+<div id="icons"  style="border-bottom: 2px solid #444141; padding-bottom: 20px;">
+<h3> 🛠️ Languages and Tools : </h3>
+<div align="center">
 
 ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
-
-</div>
-
-<div> 
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,24 +47,22 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)
 
-</div>
-
-<div> 
-
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=ffdd54&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+</div>
 </div>
 
-</div>
+<div id="stats">
+<h3>📊 My Stat:</h3>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyand8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyand8&layout=compact&theme=vision-friendly-dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyand8&theme=vision-friendly-dark&show_icons=true)
 </div>
-
-   
+</div>
