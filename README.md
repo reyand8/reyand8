@@ -7,7 +7,7 @@
 ---
 
 ### 👨🏼‍💻 About Me:
-- 🌱 I’m currently learning JS, Python
+- 🌱 I’m currently learning Java
 - 🌍 I speak: Russian, Ukrainian, Spanish, English, German
 - 🎓 Master in Economics and Business Planning
 
@@ -23,6 +23,7 @@
 ### Programming Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=ffdd54&label=)
 
 ### Frontend Development:
@@ -48,9 +49,14 @@
 
 ### Backend Development:
 
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases:
+
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
 ### Testing:
 
@@ -67,10 +73,6 @@
 ![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=white&label=)
 ![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
-
-### Databases:
-
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 
 ---
 
