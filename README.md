@@ -7,7 +7,7 @@
 ---
 
 ### 👨🏼‍💻 About Me:
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning TypeScript
 - 🌍 I speak: Russian, Ukrainian, Spanish, English, German
 - 🎓 Master in Economics and Business Planning
 
