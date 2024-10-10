@@ -6,13 +6,6 @@
 
 ---
 
-### 👨🏼‍💻 About Me:
-- 🌱 I’m currently learning TypeScript
-- 🌍 I speak: Russian, Ukrainian, Spanish, English, German
-- 🎓 Master in Economics and Business Planning
-
----
-
 ### 📫 How to reach me:
 <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
