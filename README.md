@@ -50,6 +50,7 @@
 ### Databases:
 
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=FFFFFF&label=)
 
 ### Testing:
 
