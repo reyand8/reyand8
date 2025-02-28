@@ -1,78 +1,306 @@
-<h2 align="center">Hi there, I'm Andrey 👋</h2>
+<div id="header" align="center">
+<h1>
+    Hi there, I'm Andrey 👋
+    <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="140"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="140"/>
+</h1>
 </div>
 
 ---
 
 ### 👨🏼‍💻 About Me:
-- 🌱 I’m currently learning Java
-- 🌍 I speak: Russian, Ukrainian, Spanish, English, German
-- 🎓 Master in Economics and Business Planning
+
+Passionate Software Developer
 
 ---
 
-### 📫 How to reach me:
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+### 🌍 Languages :
+
+<div>
+<table  align="center">
+<tr>
+
+    🇺🇦 Russian - Native
+
+
+</tr>
+
+<tr>
+
+    🇺🇦 Ukrainian - Native
+
+</tr>
+
+<tr> 
+
+    🇪🇸 Spanish - B2
+
+</tr>
+<tr>
+
+    🇬🇧 English - B2
+
+</tr>
+<tr>
+
+    🇩🇪 German - B1
+
+</tr>
+</table>
+</div>
+
 
 ---
 
 ### Programming Languages:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=ffdd54&label=)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/ts.svg" alt="ts" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="88">
+        <img src="./assets/images/js.svg" alt="js" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/java.svg" alt="java" width="44" height="44"/>
+      <br>Java
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/python.svg" alt="python" width="44" height="44"/>
+      <br>Python
+    </td>
+</table>
+</div>
 
 ### Frontend Development:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-0081CB?style=for-the-badge&logo=Formik&logoColor=white)
-![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
-![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
-![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
-![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
-![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/html5.svg" alt="html5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+        <img src="./assets/images/css3.svg" alt="css3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/sass.svg" alt="sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/tailwind.svg" alt="tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/material.svg" alt="material" width="44" height="44"/>
+      <br>Material UI
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/ant-design.svg" alt="ant-design" width="44" height="44"/>
+      <br>Ant Design
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/bootstrap.svg" alt="bootstrap" width="44" height="44"/>
+      <br>Bootstrap
+    </td>
+</table>
+</div>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/react.svg" alt="react" width="44" height="44"/>
+      <br>React/React Native
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/redux.svg" alt="redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/graphql.svg" alt="graphql" width="44" height="44"/>
+      <br>GraphQL
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/formik.svg" alt="formik" width="44" height="44"/>
+      <br>Formik
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/axios.svg" alt="axios" width="44" height="44"/>
+      <br>Axios
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/apollo.svg" alt="apollo" width="44" height="44"/>
+      <br>Apollo
+    </td>
+    <td align="center" width="88">
+        <img src="./assets/images/socketio.svg" alt="react" width="44" height="44"/>
+      <br>Socket.io
+    </td>
+</table>
+</div>
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/angular.svg" alt="angular" width="44" height="44"/>
+      <br>Angular
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/rxjs.svg" alt="rxjs" width="44" height="44"/>
+      <br>RxJs
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/ngrx.svg" alt="ngrx" width="44" height="44"/>
+      <br>Ngrx
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/nextjs.svg" alt="nextjs" width="44" height="44"/>
+      <br>NextJS
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/androidsdk.svg" alt="androidsdk" width="44" height="44"/>
+      <br>Android SDK
+    </td>
+</table>
+</div>
+
 
 ### Backend Development:
 
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/nodejs.svg" alt="nodejs" width="44" height="44"/>
+      <br>NodeJS
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/nestjs.svg" alt="nestjs" width="44" height="44"/>
+      <br>NestJS
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/prisma.svg" alt="prisma" width="44" height="44"/>
+      <br>Prisma
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/nextjs.svg" alt="nextjs" width="44" height="44"/>
+      <br>Express
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/django.svg" alt="django" width="44" height="44"/>
+      <br>Django
+    </td>
+
+</table>
+</div>
 
 ### Databases:
 
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/postgresql.svg" alt="postgresql" width="44" height="44"/>
+      <br>PostgreSQL
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/firebase.svg" alt="firebase" width="44" height="44"/>
+      <br>Firebase
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/sqlite.svg" alt="sqlite" width="44" height="44"/>
+      <br>SQLite3
+    </td>
+
+</table>
+</div>
 
 ### Testing:
 
-![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
-![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/jest.svg" alt="jest" width="44" height="44"/>
+      <br>Jest
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/pytest.svg" alt="pytest" width="44" height="44"/>
+      <br>Pytest
+    </td>
+
+</table>
+</div>
 
 ### Development Tools:
 
-![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
-![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)
-![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=white&label=)
-![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./assets/images/intellij.svg" alt="intellij" width="44" height="44"/>
+      <br>Intellij IDEA
+    </td>
+<td align="center" width="88">
+         <img src="./assets/images/pycharm.svg" alt="pycharm" width="44" height="44"/>
+      <br>Pycharm IDEA
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/android.svg" alt="android" width="44" height="44"/>
+      <br>Android Studio
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/github.svg" alt="github" width="44" height="44"/>
+      <br>Github
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/git.svg" alt="pycharm" width="44" height="44"/>
+      <br>Git
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/eslint.svg" alt="eslint" width="44" height="44"/>
+      <br>Eslint
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/prettier.svg" alt="prettier" width="44" height="44"/>
+      <br>Prettier
+    </td>
+</table>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <td align="center" width="88">
+         <img src="./assets/images/storybook.svg" alt="storybook" width="44" height="44"/>
+      <br>Storybook
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/webpack.svg" alt="webpack" width="44" height="44"/>
+      <br>Webpack
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/gulp.svg" alt="gulp" width="44" height="44"/>
+      <br>Gulp
+    </td>
+    <td align="center" width="88">
+         <img src="./assets/images/postman.svg" alt="postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+
+</table>
+</div>
 
 ---
 
